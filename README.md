@@ -1,4 +1,6 @@
-# Fennec---linux-notepad
+# Fennec --- Linux Notepad Alternative
+
+Python Based
 
 Made this in a day.
 
